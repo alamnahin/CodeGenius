@@ -1,0 +1,34 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "Abstract hero image for a code learning platform.",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxhYnN0cmFjdCUyMHRlY2hub2xvZ3l8ZW58MHx8fHwxNzY4NzQ0OTg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract technology"
+    },
+    {
+      "id": "feature-learning-path",
+      "description": "Icon for AI-powered learning path.",
+      "imageUrl": "https://images.unsplash.com/photo-1664526936810-ec0856d31b92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxuZXR3b3JrJTIwbm9kZXN8ZW58MHx8fHwxNzY4NzM0NDIxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "network nodes"
+    },
+    {
+      "id": "feature-editor",
+      "description": "Icon for interactive code editor.",
+      "imageUrl": "https://images.unsplash.com/photo-1529429612779-c8e40ef2f36d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjb2RlJTIwc2NyZWVufGVufDB8fHx8MTc2ODY2NDg0NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "code screen"
+    },
+    {
+      "id": "feature-dashboard",
+      "description": "Icon for user dashboard.",
+      "imageUrl": "https://images.unsplash.com/photo-1759536430218-7053ccf40fe9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZGFzaGJvYXJkJTIwY2hhcnR8ZW58MHx8fHwxNzY4NzMzNzg1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dashboard chart"
+    },
+    {
+      "id": "user-avatar",
+      "description": "Placeholder for a user's avatar.",
+      "imageUrl": "https://images.unsplash.com/photo-1600180758890-6b94519a8ba6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3Njg2NzM0NjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    }
+  ]
+}
